@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PUBLIC_TRANSPORT RELATED STRINGS [!need override!] -->
+    <string name="public_transport_title"/>
+    <string name="public_transport_route_details_title"/>
+    <string name="public_transport_search_start"/>
+    <string name="public_transport_search_stop"/>
+    <string name="public_transport_showRoute"/>
+    <string name="public_transport_tripTime"/>
+    <string name="public_transport_arrival"/>
+    <string name="public_transport_departure"/>
+    <string name="public_transport_stopCount"/>
+    <string name="public_transport_departure_now"/>
+    <string name="public_transport_departure_in_x_minutes"/>
+</resources>

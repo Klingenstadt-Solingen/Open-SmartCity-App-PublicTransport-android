@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PUBLIC TRANSPORT RELATED COLORS -->
+    <color name="public_transport_railway">#003399</color>
+    <color name="public_transport_subway">#007055</color>
+    <color name="public_transport_bus">#00A0DD</color>
+    <color name="public_transport_taxi">#CC3333</color>
+    <color name="public_transport_airline_seat">#F9AD35</color>
+    <color name="public_transport_airline_info_outline">#7A7A7A</color>
+    <color name="public_transport_airline_switch">#7A7A7A</color>
+</resources>
